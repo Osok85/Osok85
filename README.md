@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Osok85
 - 👀 I’m interested in Data analysis - sceince 
-- 🌱 I’m currently learning R 
+- 🌱 I’m currently will start on python 
 - 💞️ I’m looking to collaborate on my learning journy 
 - 📫 How to reach me : osok85@hotmail.com
 
